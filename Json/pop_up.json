@@ -1,0 +1,184 @@
+{
+    "message1": {
+        "symbol_number": "1",
+        "type": "2",
+        "text":
+"                   Пожар в e-панели!
+Отключи двигатель, обесточь систему",
+        "sound": "none",
+        "color": "red",
+        "priority": "0"
+    },
+    "message2": {
+        "symbol_number": "2",
+        "type": "2",
+        "text":
+"                   Пожар в мотоотсеке!
+Отключи двигатель, обесточь систему",
+        "sound": "none",
+        "color": "red",
+        "priority": "1"
+    },
+    "message3": {
+        "symbol_number": "3",
+        "type": "2",
+        "text": "Запущено средство пожаротушения в
+                        e-панели!",
+        "sound": "none",
+        "color": "red",
+        "priority": "2"
+    },
+    "message4": {
+        "symbol_number": "4",
+        "type": "2",
+        "text": "Запущено средство пожаротушения в
+                        мотоотсеке!",
+        "sound": "none",
+        "color": "red",
+        "priority": "3"
+    },
+    "message5": {
+        "symbol_number": "5",
+        "type": "1",
+        "text": "
+Утечка газа в мотоотсеке!
+Останов ДВС через 2 мин.",
+        "sound": "none",
+        "color": "red",
+        "priority": "4"
+    },
+    "message6": {
+        "symbol_number": "6",
+        "type": "1",
+        "text": "
+Утечка газа из баллонов!
+Останов ДВС через 2 мин.",
+        "sound": "none",
+        "color": "red",
+        "priority": "5"
+    },
+    "message7": {
+        "symbol_number": "7",
+        "type": "2",
+        "text": "Включите стояночный тормоз",
+        "sound": "none",
+        "color": "red",
+        "priority": "6"
+    },
+    "message8": {
+        "symbol_number": "8",
+        "type": "1",
+        "text": "Отключена блокировка
+    движения автобуса",
+        "sound": "none",
+        "color": "red",
+        "priority": "7"
+    },
+    "message9": {
+        "symbol_number": "9",
+        "type": "1",
+        "text":
+"Критическая температура ОЖ",
+        "sound": "none",
+        "color": "red",
+        "priority": "8"
+    },
+    "message10": {
+        "symbol_number": "10",
+        "type": "1",
+        "text":
+"Низкий уровень ОЖ",
+        "sound": "none",
+        "color": "red",
+        "priority": "9"
+    },
+    "message11": {
+        "symbol_number": "11",
+        "type": "1",
+        "text":
+"Низкое давление масла в ДВС",
+        "sound": "none",
+        "color": "red",
+        "priority": "10"
+    },
+    "message12": {
+        "symbol_number": "12",
+        "type": "1",
+        "text": "Перегрев контактора",
+        "sound": "none",
+        "color": "red",
+        "priority": "11"
+    },
+    "message13": {
+        "symbol_number": "13",
+        "type": "1",
+        "text": "Критическая температура контактора",
+        "sound": "none",
+        "color": "red",
+        "priority": "12"
+    },
+    "message14": {
+        "symbol_number": "14",
+        "type": "2",
+        "text": "Включена кнопка дегазации!",
+        "sound": "none",
+        "color": "red",
+        "priority": "13"
+    },
+    "message15": {
+        "symbol_number": "15",
+        "type": "2",
+        "text": "Включена кнопка аварийной
+        остановки двигателя!",
+        "sound": "none",
+        "color": "red",
+        "priority": "14"
+    },
+    "message16": {
+        "symbol_number": "16",
+        "type": "1",
+        "text":
+"                    Внимание!
+    Система удержания автобуса с
+открытыми дверями принудительно
+                    отключена!",
+        "sound": "none",
+        "color": "red",
+        "priority": "15"
+    },
+    "message17": {
+        "symbol_number": "17",
+        "type": "2",
+        "text": "Для начала движения выключите
+            стояночный тормоз",
+        "sound": "none",
+        "color": "yellow",
+        "priority": "16"
+    },
+    "message18": {
+        "symbol_number": "18",
+        "type": "1",
+        "text":
+"                       Водитель,
+включи предпусковой подогреватель",
+        "sound": "none",
+        "color": "yellow",
+        "priority": "17"
+    },
+    "message19": {
+        "symbol_number": "19",
+        "type": "1",
+        "text": "Активно резервное удержание автобуса",
+        "sound": "none",
+        "color": "blue",
+        "priority": "18"
+    },
+    "message20": {
+        "symbol_number": "20",
+        "type": "2",
+        "text": "Включен турботаймер 2 мин.",
+        "sound": "none",
+        "color": "blue",
+        "priority": "19"
+    }
+}

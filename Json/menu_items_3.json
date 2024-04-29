@@ -1,0 +1,201 @@
+{
+    "1": {
+        "menu_name": "Parameters",
+        "sub_item": "Engine",
+        "parameter_no": "1",
+        "parameter_name": "Coolant Temperature",
+        "image_path": "pics/Menu/Coolant_temperature.png",
+        "item_min_value": "-40",
+        "item_mid_value": "0",
+        "item_max_value": "120",
+        "flag": "Yes"
+    },
+    "2": {
+        "menu_name": "Parameters",
+        "sub_item": "Engine",
+        "parameter_no": "2",
+        "parameter_name": "Oil Temperature",
+	"image_path": "pics/Menu/Oil_temperature.png",
+        "item_min_value": "-40",
+        "item_mid_value": "0",
+        "item_max_value": "120",
+        "flag": "No"
+    },
+    "3": {
+        "menu_name": "Parameters",
+        "sub_item": "Engine",
+        "parameter_no": "3",
+        "parameter_name": "Oil Pressure",
+        "image_path": "pics/Menu/Oil.png",
+        "item_min_value": "0",
+        "item_mid_value": "5",
+        "item_max_value": "10",
+        "flag": "No"
+    },
+    "4": {
+        "menu_name": "Parameters",
+        "sub_item": "Engine",
+        "parameter_no": "4",
+        "parameter_name": "Instant Fuel Consumption",
+        "image_path": "pics/Menu/Fuel.png",
+        "item_min_value": "0",
+        "item_mid_value": "62.5",
+        "item_max_value": "125",
+        "flag": "Yes"
+    },
+    "5": {
+        "menu_name": "Parameters",
+        "sub_item": "Engine",
+        "parameter_no": "5",
+        "parameter_name": "Average Fuel Consumption",
+        "image_path": "pics/Menu/Fuel.png",
+        "item_min_value": "0",
+        "item_mid_value": "25",
+        "item_max_value": "50",
+        "flag": "No"
+    },
+    "6": {
+        "menu_name": "Parameters",
+        "sub_item": "Transmission",
+        "parameter_no": "1",
+        "parameter_name": "Oil Temperature",
+        "image_path": "pics/Menu/Oil_temperature.png",
+        "item_min_value": "-40",
+        "item_mid_value": "0",
+        "item_max_value": "210",
+        "flag": "Yes"
+    },
+    "7": {
+        "menu_name": "Parameters",
+        "sub_item": "Transmission",
+        "parameter_no": "2",
+        "parameter_name": "Oil Temperature in Hydraulic",
+	"image_path": "pics/Menu/Oil_temperature_hydraulic_retarder.png",
+        "item_min_value": "-40",
+        "item_mid_value": "0",
+        "item_max_value": "210",
+        "flag": "No"
+    },
+    "8": {
+        "menu_name": "Parameters",
+        "sub_item": "Battery",
+        "parameter_no": "1",
+        "parameter_name": "Voltage",
+        "image_path": "pics/Menu/Battery.png",
+        "item_min_value": "15",
+        "item_mid_value": "23.5",
+        "item_max_value": "32",
+        "flag": "Yes"
+    },
+    "9": {
+        "menu_name": "Parameters",
+        "sub_item": "Battery",
+        "parameter_no": "2",
+        "parameter_name": "Current 1",
+        "image_path": "pics/Menu/Battery.png",
+        "item_min_value": "-500",
+        "item_mid_value": "0",
+        "item_max_value": "500",
+        "flag": "No"
+    },
+    "10": {
+        "menu_name": "Parameters",
+        "sub_item": "Battery",
+        "parameter_no": "3",
+        "parameter_name": "Current 2",
+        "image_path": "pics/Menu/Battery.png",
+        "item_min_value": "-500",
+        "item_mid_value": "0",
+        "item_max_value": "500",
+        "flag": "Yes"
+    },
+    "11": {
+        "menu_name": "Parameters",
+        "sub_item": "Pneumatic System",
+        "parameter_no": "1",
+        "parameter_name": "Rear axle braking circuit",
+        "image_path": "pics/Menu/Circuit_1.png",
+        "item_min_value": "0",
+        "item_mid_value": "5",
+        "item_max_value": "10",
+        "flag": "Yes"
+    },
+    "12": {
+        "menu_name": "Parameters",
+        "sub_item": "Pneumatic System",
+        "parameter_no": "2",
+        "parameter_name": "Front axle breaking circuit",
+        "image_path": "pics/Menu/Circuit_2.png",
+        "item_min_value": "0",
+        "item_mid_value": "5",
+        "item_max_value": "10",
+        "flag": "No"
+    },
+    "13": {
+        "menu_name": "Parameters",
+        "sub_item": "Pneumatic System",
+        "parameter_no": "3",
+        "parameter_name": "Parking brake",
+        "image_path": "pics/Menu/Circuit_3.png",
+        "item_min_value": "0",
+        "item_mid_value": "5",
+        "item_max_value": "10",
+        "flag": "Yes"
+    },    
+    "14": {
+        "menu_name": "Parameters",
+        "sub_item": "Pneumatic System",
+        "parameter_no": "4",
+        "parameter_name": "Auxiliary Equipment",
+        "image_path": "pics/Menu/Circuit_4.png",
+        "item_min_value": "0",
+        "item_mid_value": "5",
+        "item_max_value": "10",
+        "flag": "No"
+    },
+    "15": {
+        "menu_name": "Parameters",
+        "sub_item": "Pneumatic System",
+        "parameter_no": "5",
+        "parameter_name": "Intermediate axle Breaking Circuit",
+	"image_path": "pics/Menu/Circuit_5.png",
+        "item_min_value": "0",
+        "item_mid_value": "5",
+        "item_max_value": "10",
+        "flag": "Yes"
+    },
+    "16": {
+        "menu_name": "Parameters",
+        "sub_item": "Wipers",
+        "parameter_no": "1",
+        "parameter_name": "Washer fluid level",
+        "image_path": "pics/Menu/Wipers.png",
+        "item_min_value": "0",
+        "item_mid_value": "50",
+        "item_max_value": "100",
+        "flag": "Yes"
+    },
+    
+    "17": {
+        "menu_name": "Parameters",
+        "sub_item": "Reagent AdBlue",
+        "parameter_no": "1",
+        "parameter_name": "AdBlue level",
+        "image_path": "pics/Menu/AdBlue.png",
+        "item_min_value": "0",
+        "item_mid_value": "50",
+        "item_max_value": "100",
+        "flag": "No"
+    },
+    "18": {
+        "menu_name": "Parameters",
+        "sub_item": "Reagent AdBlue",
+        "parameter_no": "2",
+        "parameter_name": "AdBlue temperature",
+        "image_path": "pics/Menu/AdBlue_temperature.png",
+        "item_min_value": "-40",
+        "item_mid_value": "0",
+        "item_max_value": "210",
+        "flag": "Yes"
+    }
+}

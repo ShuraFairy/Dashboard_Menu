@@ -1,0 +1,21 @@
+{
+    "automatic_adjustment_brightness": "OFF",
+    "automatic_door_closing_by_sensors": "OFF",
+    "automatic_door_closing_when_leaving_the_bus": "OFF",
+    "automatic_kneeling": "OFF",
+    "automatic_low_beam": "OFF",
+    "automatic_on_of_the_alaram_system": "OFF",
+    "automatic_opening": "OFF",
+    "automatic_wiper_operation": "OFF",
+    "brake_pads_wear_1_2": "CAN",
+    "brightness": "100",
+    "doorway_passenger_sensor": "OFF",
+    "installation_temperature": "21",
+    "installation_temperature_dc": "21",
+    "language_change": "Russian",
+    "new_password": "3333",
+    "sensor_sensitivity_to_light": "1",
+    "sensor_sensitivity_to_rain": "1",
+    "volume": "100",
+    "subitem_menu_visibility":"0xFFFFFFFFFFFFFFFF"
+}

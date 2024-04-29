@@ -1,0 +1,14 @@
+#variables:
+#  HELLOWORLD_VERSION: "0.0.1"
+stages:
+  - test
+
+
+#> STARTED FIRST STAGE ##################################################################################
+
+Helloworld:
+  stage: test
+  image: alpine
+  tags: ["helloworld"]
+  script:
+    - ls -la
